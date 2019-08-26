@@ -45,12 +45,12 @@ __http://{hostname}:{port}/userlist__ (POST method)
     
 }
 
-**GET all todos**
-
-**http://{hostname}:{port}/userlist** (GET method)
 
 > **using _Authorization_ Token** 
 
+**GET all todos**
+
+**http://{hostname}:{port}/userlist** (GET method)
 
 **Get single user**
 
