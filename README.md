@@ -47,18 +47,19 @@ __http://{hostname}:{port}/userlist__ (POST method)
 
 **GET all todos**
 
-__http://{hostname}:{port}/userlist__ (GET method)
+**http://{hostname}:{port}/userlist** (GET method)
 
 **using _Authorization_ Token**
 
+
 **Get single user**
 
-__http://{hostname}:{port}/userlist/{_id}__
+**http://{hostname}:{port}/userlist/{_id}**
 
 
 **update user details**
 
-__http://{hostname}:{port}/user/{_id}__ (PUT method)
+**http://{hostname}:{port}/user/{_id}** (PUT method)
 
 {
 
@@ -69,4 +70,4 @@ __http://{hostname}:{port}/user/{_id}__ (PUT method)
 
 **Delete user list**
 
-__http://{hostname}:{port}/userlist/{_id}__ (DELETE method)
+**http://{hostname}:{port}/userlist/{_id}** (DELETE method)
