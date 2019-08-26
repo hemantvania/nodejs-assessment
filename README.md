@@ -49,7 +49,7 @@ __http://{hostname}:{port}/userlist__ (POST method)
 
 **http://{hostname}:{port}/userlist** (GET method)
 
-**using _Authorization_ Token**
+> **using _Authorization_ Token** 
 
 
 **Get single user**
